@@ -422,4 +422,3 @@ const styles = StyleSheet.create({
   saveBtn: { flexDirection: 'row', gap: 7, alignItems: 'center', backgroundColor: '#0f172a', paddingVertical: 10, paddingHorizontal: 20, borderRadius: 6 },
   saveBtnText: { color: 'white', fontWeight: '700', fontSize: 12, letterSpacing: 0.5 },
 });
-

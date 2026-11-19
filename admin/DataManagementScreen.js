@@ -662,4 +662,3 @@ const styles = StyleSheet.create({
   modalBody:         { fontSize: 12, color: C.dim, lineHeight: 20, marginBottom: 18 },
   modalCancelBtn:    { flex: 1, justifyContent: 'center', alignItems: 'center', paddingVertical: 11, borderRadius: 7, borderWidth: 1, borderColor: C.border },
 });
-

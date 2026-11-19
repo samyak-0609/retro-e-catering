@@ -605,4 +605,3 @@ const styles = StyleSheet.create({
   },
   adminSwitchText: { color: '#64748b', fontSize: 13, fontWeight: '600' },
 });
-

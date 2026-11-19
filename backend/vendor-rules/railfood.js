@@ -253,4 +253,3 @@ TOTAL:
 - PAYMENT: "COD"→"COD", "PAID"/"PRE_PAID"/"PAID"→"Prepaid"`;
 
 module.exports = { matchers, type, rule, domConfig };
-

@@ -113,4 +113,3 @@ export async function addDiscoveredPrinter(clientId, found, allPrinters = []) {
     allPrinters,
   );
 }
-

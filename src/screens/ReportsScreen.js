@@ -1405,4 +1405,3 @@ const dStyles = StyleSheet.create({
   collectLbl:  { color: '#94a3b8', fontWeight: '700', fontSize: 10, letterSpacing: 0.8 },
   collectVal:  { color: 'white', fontWeight: '800', fontSize: 15 },
 });
-

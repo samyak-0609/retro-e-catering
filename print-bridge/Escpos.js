@@ -189,4 +189,3 @@ function buildReceipt(receipt, opts = {}) {
 }
 
 module.exports = { buildReceipt, sanitize };
-

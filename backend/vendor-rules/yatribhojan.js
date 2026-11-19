@@ -218,4 +218,3 @@ EXACT EMAIL STRUCTURE:
 - TOTAL: "NET TOTAL" field — strip "Rs " prefix. e.g. "Rs 594" → 594.`;
 
 module.exports = { matchers, type, rule, domConfig };
-

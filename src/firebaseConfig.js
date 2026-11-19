@@ -45,4 +45,3 @@ export const analytics =
         .then((supported) => (supported ? getAnalytics(app) : null))
         .catch(() => null)
     : Promise.resolve(null);
-

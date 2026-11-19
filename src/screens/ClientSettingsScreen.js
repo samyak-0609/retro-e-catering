@@ -1954,4 +1954,3 @@ const styles = StyleSheet.create({
     backgroundColor: '#f59e0b', justifyContent: 'center', alignItems: 'center',
   },
 });
-

@@ -325,4 +325,3 @@ const styles = StyleSheet.create({
   orderCell: { fontSize: 13, color: '#374151' },
   undatedNote: { fontSize: 11, color: '#f59e0b', marginTop: 10, textAlign: 'center' },
 });
-

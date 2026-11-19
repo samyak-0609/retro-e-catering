@@ -1550,4 +1550,3 @@ const styles = StyleSheet.create({
   },
   pageNavBtnDisabled: { borderColor: '#f1f5f9', backgroundColor: '#fafafa' },
 });
-

@@ -1433,4 +1433,3 @@ const styles = StyleSheet.create({
   emptyTitle: { fontSize: 15, fontWeight: "700", color: C.textPrimary },
   emptyText: { fontSize: 12, color: C.textSecond },
 });
-

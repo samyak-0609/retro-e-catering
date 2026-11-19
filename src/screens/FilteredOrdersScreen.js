@@ -1373,4 +1373,3 @@ const styles = StyleSheet.create({
   },
   searchCapNoticeText: { fontSize: 12, color: '#b45309', fontWeight: '500', textAlign: 'center' },
 });
-

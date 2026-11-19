@@ -579,4 +579,3 @@ const s = StyleSheet.create({
   modalSectionTitle: { color: c.ink, fontFamily: serif, fontSize: 16, fontWeight: '700', marginBottom: 8 },
   modalSectionText: { color: c.ink, fontSize: 14, lineHeight: 22 },
 });
-

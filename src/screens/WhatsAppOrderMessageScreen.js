@@ -1562,4 +1562,3 @@ const styles = StyleSheet.create({
   bottomSummary: { flex: 1, fontSize: 13.5, color: C.sub, fontWeight: "600" },
   sendBtn: { flex: 1, minWidth: 220 },
 });
-

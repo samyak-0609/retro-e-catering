@@ -197,4 +197,3 @@ export function receiptToPreviewLines(receipt = []) {
   });
   return out;
 }
-

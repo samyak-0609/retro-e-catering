@@ -1374,4 +1374,3 @@ module.exports = function registerWhatsApp(app, deps) {
   setInterval(reviewSweep, 60 * 1000); // har 1 minute mein due review messages
   log("WhatsApp module registered (auto messages active)");
 };
-

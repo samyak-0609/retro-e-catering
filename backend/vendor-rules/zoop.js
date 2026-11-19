@@ -417,4 +417,3 @@ EXPECTED PARSE OUTPUT for ZO36317062087957
   totalAmount   : 258`;
 
 module.exports = { matchers, type, rule, domConfig };
-

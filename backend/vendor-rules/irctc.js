@@ -194,4 +194,3 @@ FOOTER ROWS (colspan=3 on label, value in last cell — ₹ present):
 - tax: "GST" value.`;
 
 module.exports = { matchers, type, rule, domConfig, skipSubjects };
-

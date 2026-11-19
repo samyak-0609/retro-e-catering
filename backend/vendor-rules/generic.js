@@ -16,4 +16,3 @@ const rule = `GENERAL RULES:
 - DATE: convert any date format to YYYY-MM-DD. Time to HH:MM 24hr.`;
 
 module.exports = { matchers, type, rule };
-

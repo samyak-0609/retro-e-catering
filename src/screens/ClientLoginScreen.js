@@ -171,4 +171,3 @@ const styles = StyleSheet.create({
   btn: { flexDirection: 'row', justifyContent: 'center', alignItems: 'center', gap: 8, backgroundColor: '#0f172a', paddingVertical: 14, borderRadius: 8, marginTop: 12 },
   btnText: { color: '#fff', fontWeight: '700', fontSize: 13, letterSpacing: 0.5 },
 });
-

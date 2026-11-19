@@ -493,4 +493,3 @@ const s = StyleSheet.create({
   tipText:              { fontSize: 12, color: '#6b7280', lineHeight: 18 },
   tipBold:              { fontWeight: '600', color: '#9ca3af' },
 });
-

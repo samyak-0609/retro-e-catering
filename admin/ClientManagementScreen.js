@@ -1348,4 +1348,3 @@ export default function App() {
     </>
   );
 }
-

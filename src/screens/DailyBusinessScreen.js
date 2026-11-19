@@ -350,4 +350,3 @@ const styles = StyleSheet.create({
   },
   pickerCloseText: { fontSize: 13, color: '#64748b', fontWeight: '600' },
 });
-

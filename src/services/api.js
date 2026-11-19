@@ -49,4 +49,3 @@ export const updateOrderStatus = async (orderId, newStatus) => {
   await updateDoc(orderRef, { status: newStatus });
   return { id: orderId, status: newStatus };
 };
-

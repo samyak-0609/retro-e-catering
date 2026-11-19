@@ -86,4 +86,3 @@ const VENDOR_SKIP_SUBJECTS = Object.fromEntries(
 );
 
 module.exports = { VENDOR_MAP, VENDOR_RULES, VENDOR_DOM_CONFIGS, VENDOR_SKIP_SUBJECTS };
-

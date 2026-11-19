@@ -55,4 +55,3 @@ const styles = StyleSheet.create({
   print: { backgroundColor: '#1a73e8' },
   printText: { color: '#fff', fontWeight: '600' },
 });
-

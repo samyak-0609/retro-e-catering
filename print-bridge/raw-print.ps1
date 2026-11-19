@@ -79,4 +79,3 @@ if (-not [RawPrinterHelper]::SendBytes($PrinterName, $bytes)) {
   exit 1
 }
 exit 0
-

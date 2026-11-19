@@ -206,4 +206,3 @@ export function analyzeTemplate(t, { allowMediaHeader = false } = {}) {
     reason,
   };
 }
-

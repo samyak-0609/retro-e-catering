@@ -395,4 +395,3 @@ FIELD EXTRACTION RULES:
 - TOTAL: always use "Total:" footer row value as totalAmount (both COD and Prepaid)`;
 
 module.exports = { matchers, type, rule, domConfig };
-

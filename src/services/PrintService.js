@@ -148,4 +148,3 @@ export async function testPrinter(printer) {
     return { ok: false, error: e.message };
   }
 }
-

@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Retro E-Catering",
+    "slug": "Billing",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "web": {
+      "favicon": "./assets/favicon.jpeg"
+    }
+  }
+}
+
